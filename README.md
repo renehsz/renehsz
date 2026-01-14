@@ -1,30 +1,31 @@
 **I have largely moved on from Github, and encourage you to do the same.**
 
-Microsoft has repeatedly demonstrated a lack of care and commitment to data protection, privacy,
-protecting user copyrights, and providing a high-quality developer experience.
-Visit [GiveUpGithub.org](https://giveupgithub.org/) for more information and additional context.
+Microsoft is charging full speed ahead toward total enshittification, and GitHub is along for the ride.
+The developer experience has been so bad lately that I saw no better option than leaving the platform.
 
-My public repositories can now be found on the following sites:
+**Visit [GiveUpGithub.org](https://giveupgithub.org/) to learn more!**
+
+<br/><br/>
+My public repositories are now located at:
 - [git.hickersberger.org](https://git.hickersberger.org)
 - Codeberg: [codeberg.org/renehsz](https://codeberg.org/renehsz)
 - Sourcehut: [git.sr.ht/~renehsz](https://git.sr.ht/~renehsz)
 
-**I would like to encourage *you* to host your own Git forge as well! It is not hard!**
+<br/><br/>
+**I would like to encourage *you* to host your own Git forge as well! It is not that difficult!**
 
-A Git repository is, in fact, not more than a directory that you can access via SSH just like you log in to your server.
-A simple `git init --bare` might be all you need.
+For many use cases, a simple `git init --bare` might be all you need. Clone the repo via SSH and you're all set.
 
 If you want to go one step further, tools like [stagit](https://codemadness.org/stagit.html) or [cgit](https://git.zx2c4.com/cgit/)
-are perfectly sufficient for the simple use case of providing a read-only web interface to
-your repositories.
+can host a simple web interface.
 
-In case you need a fancy *interactive* web UI with user management and other advanced features,
+In case you need a more advanced web UI,
 consider setting up [Forgejo](https://forgejo.org/) or [Gitea](https://about.gitea.com/).
-It really shouldn't take more than maybe a couple of hours to get up and running.
 
-Consider deploying a firewall such as [Anubis](https://anubis.techaro.lol/) against bad AI spam crawlers.
+Also consider deploying a web application firewall like [Anubis](https://anubis.techaro.lol/) to protect your server against spammy AI crawlers causing unnecessary load.
 
-**"But I don't want to self-host!!!11!!"**
+**"But... I don't want to self-host!!!11!!"**
 
-If you insist on using a hosted service, you might want to consider
+Sure, you might want to consider
 [Codeberg](https://codeberg.org/) or perhaps [Sourcehut](https://sourcehut.org).
+Look around, there are plenty of options!
