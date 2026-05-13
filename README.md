@@ -9,7 +9,6 @@ The developer experience has been so bad lately that I saw no better option than
 My public repositories are now located at:
 - [git.hickersberger.org](https://git.hickersberger.org)
 - Codeberg: [codeberg.org/renehsz](https://codeberg.org/renehsz)
-- Sourcehut: [git.sr.ht/~renehsz](https://git.sr.ht/~renehsz)
 
 <br/><br/>
 **I would like to encourage *you* to host your own Git forge as well! It is not that difficult!**
